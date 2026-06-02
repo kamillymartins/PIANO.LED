@@ -32,7 +32,7 @@ O projeto é ideal para iniciantes que desejam aprender os conceitos básicos de
 
 ## 🔌 Esquema do Circuito
 
-![Circuito](pianoled.png)
+![imagempiano](https://github.com/kamillymartins/PIANO.LED/blob/main/pianoled.png)
 
 
 
